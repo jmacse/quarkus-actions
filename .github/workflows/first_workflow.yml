@@ -1,5 +1,5 @@
 name: first workflow
-on: pushgit 
+on: push
 jobs:
   first-job:
     environment: development
